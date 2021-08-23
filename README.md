@@ -33,7 +33,7 @@ A sample Netbeans project working with JPDB
 
 ### Screenshots
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/manojkumarlogan/NetBeansProject/blob/main/Screenshots/Database.png)
 
 ![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
