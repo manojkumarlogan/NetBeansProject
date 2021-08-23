@@ -37,4 +37,4 @@ A sample Netbeans project working with JPDB
 
 ![Index Page](https://github.com/manojkumarlogan/NetBeansProject/blob/main/Screenshots/Index.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/manojkumarlogan/NetBeansProject/blob/main/Screenshots/Table.png)
