@@ -30,3 +30,11 @@ A sample Netbeans project working with JPDB
     * CHANGE: Rename `foo()` to `bar()`
 * 0.0.1
     * Work in progress
+
+### Screenshots
+
+![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+
+![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+
+![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
